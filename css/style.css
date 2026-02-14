@@ -10,8 +10,7 @@ body {
 
 /****************   Nav Section **********************/
 #spacer {
-  margin: 100px;
-  border-bottom: 3px solid rgba(117, 87, 188, 0.455);
+  margin: 50px;
 }
 
 nav {
@@ -225,7 +224,7 @@ section a:hover {
     flex-direction: column;
   }
 
-  .three-col {
+  .three-col, #boxes {
     display: grid;
     grid-template-columns: 1fr;
     gap: 10px;
