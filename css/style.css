@@ -175,6 +175,7 @@ section dl {
 }
 
 section ul {
+  text-align: left;
   list-style-type: square;
 }
 
